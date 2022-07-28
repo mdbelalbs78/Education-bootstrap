@@ -1,9 +1,9 @@
 
 
-footer {
-    display: flex;
+.social-links{
+  
+    
+    color: white;
     justify-content: center;
-    padding: 5px;
-    background-color: #161616;
-    color: #fff;
-}
+    gap: 20px;
+  }
